@@ -1,0 +1,4 @@
+"G:\Software\CLion2016\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" G:\Software\CompEngProj
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/Software/CompEngProj/cmake-build-debug

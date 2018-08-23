@@ -1,0 +1,2 @@
+ToolSet: 3.22@C:\MinGW
+CMake: 3.6.3@G:\Software\CLion2016\CLion 2016.3.5\bin\cmake\bin\cmake.exe
