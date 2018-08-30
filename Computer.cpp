@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-Computer::Computer(){
+Computer::Computer() {
 
     menu();
     delete CPU1;
