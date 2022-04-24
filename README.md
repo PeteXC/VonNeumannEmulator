@@ -6,11 +6,16 @@ This was submitted as a coursework for the ELEC2204 module for a MEng Electronic
 
 ## Usage
 
-### Requirements
 
-    1.  Need g++ installed
-    2.  Run the make file listed in 'cmake-build.debug'
-    3.  Run the .exe produced by the make file
+### Installation
+
+```
+brew install gcc
+```
+
+```
+./install.sh
+```
 
 **OR**
 
